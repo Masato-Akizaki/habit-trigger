@@ -1,5 +1,5 @@
 {
-  "name": "routine_record",
+  "name": "habit_trigger",
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
